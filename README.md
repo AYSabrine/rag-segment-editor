@@ -6,6 +6,9 @@
 > **Retrieval-Augmented Generation (RAG)** assistant, with impact simulation
 > before anything goes live.
 
+**Portfolio reconstruction of a Next Best Offer system I built and ran in production at a telecom operator in 2025.**
+The original code is proprietary; this version uses synthetic data and a fictional segmentation grid.
+
 **100% synthetic data. No real operator data is used.**
 
 `RAG` · `LLM` · `Data Engineering` · `Config-Driven Architecture` · `Oracle SQL` · `Streamlit`
@@ -241,6 +244,6 @@ streamlit run app/main.py              # launch the editor
 **Governance & product thinking** — staging → check → impact simulation → controlled promotion, business self-service.
 
 ---
-*Portfolio project — synthetic data only. Inspired by a real Next Best Offer
-system built for a telecom operator; all data, schema and business values here
-are fictional.*
+*Portfolio reconstruction of a Next Best Offer system built and run in production
+for a telecom operator in 2025 (original code proprietary). All data, schema and
+business values here are fictional.*
